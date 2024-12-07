@@ -1,0 +1,15 @@
+ https://stackoverflow.com/questions/52675257/how-to-send-data-from-html-to-node-js
+
+https://pt.stackoverflow.com/questions/374129/pegar-dados-no-method-post
+
+https://stackoverflow.com/questions/48248832/stylesheet-not-loaded-because-of-mime-type
+
+https://pt.stackoverflow.com/questions/374129/pegar-dados-no-method-post
+
+https://www.npmjs.com/package/md5
+
+https://stackoverflow.com/questions/40284338/javascript-fetch-delete-and-put-requests
+
+https://www.codesnippets.dev.br/post/como-gerar-um-simples-hash-com-javascript
+
+https://www.scaler.com/topics/nodejs/import-and-export-in-nodejs/
